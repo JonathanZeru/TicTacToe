@@ -1,2 +1,2 @@
-# TikTakToe
-TIkTakToe Game using HTML, CSS and Javascript
+# TicTacToe
+TicTacToe Game using HTML, CSS and Javascript
